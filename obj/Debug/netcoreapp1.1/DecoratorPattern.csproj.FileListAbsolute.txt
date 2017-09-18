@@ -1,0 +1,9 @@
+C:\Dev\DecoratorPattern\DecoratorPattern\bin\Debug\netcoreapp1.1\DecoratorPattern.deps.json
+C:\Dev\DecoratorPattern\DecoratorPattern\bin\Debug\netcoreapp1.1\DecoratorPattern.runtimeconfig.json
+C:\Dev\DecoratorPattern\DecoratorPattern\bin\Debug\netcoreapp1.1\DecoratorPattern.runtimeconfig.dev.json
+C:\Dev\DecoratorPattern\DecoratorPattern\bin\Debug\netcoreapp1.1\DecoratorPattern.dll
+C:\Dev\DecoratorPattern\DecoratorPattern\bin\Debug\netcoreapp1.1\DecoratorPattern.pdb
+C:\Dev\DecoratorPattern\DecoratorPattern\obj\Debug\netcoreapp1.1\DecoratorPattern.csprojResolveAssemblyReference.cache
+C:\Dev\DecoratorPattern\DecoratorPattern\obj\Debug\netcoreapp1.1\DecoratorPattern.AssemblyInfo.cs
+C:\Dev\DecoratorPattern\DecoratorPattern\obj\Debug\netcoreapp1.1\DecoratorPattern.dll
+C:\Dev\DecoratorPattern\DecoratorPattern\obj\Debug\netcoreapp1.1\DecoratorPattern.pdb
